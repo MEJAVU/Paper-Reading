@@ -5,10 +5,10 @@ paper reading, survey, seminar beyond multi-account dimension.
 ###### 1. [Segmentation](#1.-segmentation)
 ###### 2. [OCR/STR](#2.-ocr,-str)
 
+***
+
 #### 1. Segmentation
 Segmentation paper.
-
-***
 
 | Review Date | Year |                                  Title                                  |   S/P   | Paper | Review |
 |:-----------:|------|:-----------------------------------------------------------------------:|:-------:|:-----:|--------|
