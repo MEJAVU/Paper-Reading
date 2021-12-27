@@ -12,6 +12,6 @@ Mask Classification 은 단일 클래스에 대한 Binary Mask 의 모음(set)�
 Mask R-CNN, DETR 모델은 Instance Segmentation 과 Semantic Segmentation 을 동시에 해야 하는 Panoptic Segmentation 도 해결 할 수
 있었다. 
 
-![DETR - Panoptic Segmentation](../fig/MaskFormer-DETR_Decoder.png?raw=true "DETR Panoptic Segmentation")
+![DETR - Panoptic Segmentation](../fig/MaskFormer-DETR_Decoder.png)
 
 #### DETR를 이용한 Panoptic Segmentation 예시
