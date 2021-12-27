@@ -4,7 +4,7 @@ paper reading, survey, seminar beyond multi-account dimension.
 *Paper Reading (Upload) Planning
 
 ## Index
-###### 1. [Segmentation] (#1.-segmentation)
+###### 1. [Segmentation](#1.-segmentation)
 
 
 #### 1. Segmentation
