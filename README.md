@@ -12,7 +12,7 @@ Segmentation paper.
 
 | Review Date | Year |                                  Title                                  |   S/P   | Paper | Review |
 |:-----------:|------|:-----------------------------------------------------------------------:|:-------:|:-----:|--------|
-|   21.12.27  | 2021 | Per-Pixel Classification is Nopt All You Need for Semantic Segmentation | NeurIPS | [Link](https://arxiv.org/abs/2107.06278) | asap |
+|   21.12.27  | 2021 | Per-Pixel Classification is Nopt All You Need for Semantic Segmentation | NeurIPS | [Link](https://arxiv.org/abs/2107.06278) | [Review](review-MaskFormer) |
 |   21.12.27  | 2021 | Masked-attension Mask Transformer for Universal Image Segmentation | arxiv | [Link](https://arxiv.org/abs/2112.01527) |        |
 |   21.12.xx  |      |                                                                         |         |       |        |
 
