@@ -3,11 +3,12 @@ paper reading, survey, seminar beyond multi-account dimension.
 
 ## Index
 ###### 1. [Segmentation](#1.-segmentation)
-###### 2. [OCR/STR](#2.-ocr/str)
+###### 2. [OCR/STR](#2.-ocr,-str)
 
 #### 1. Segmentation
 Segmentation paper.
 
+***
 | Review Date | Year |                                  Title                                  |   S/P   | Paper | Review |
 |:-----------:|------|:-----------------------------------------------------------------------:|:-------:|:-----:|--------|
 |   21.12.27  | 2021 | Per-Pixel Classification is Nopt All You Need for Semantic Segmentation | NeurIPS | [Link](https://arxiv.org/abs/2107.06278) | asap |
@@ -15,7 +16,7 @@ Segmentation paper.
 |   21.12.xx  |      |                                                                         |         |       |        |
 
 ***
-#### 2. OCR/STR
+#### 2. OCR, STR
 Optical Character Recognition / Scene Text Recognition Paper
 
 | Review Date | Year |                                  Title                                  |   S/P   | Paper | Review |
