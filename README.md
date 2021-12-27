@@ -3,7 +3,7 @@ paper reading, survey, seminar beyond multi-account dimension.
 
 ## Index
 ###### 1. [Segmentation](#1.-segmentation)
-###### 2. [OCR/STR](#2.-ocr,-str)
+###### 2. [OCR, STR](#2.-ocr,-str)
 
 ***
 
