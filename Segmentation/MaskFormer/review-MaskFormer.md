@@ -1,4 +1,4 @@
-# Per-Pixel Classification is Nopt All You Need for Semantic Segmentation
+# Per-Pixel Classification is Not All You Need for Semantic Segmentation
 
 ### Simple Summary
 1. Per-Pixel Classification 을 사용하지 않고 Mask Classification 으로도 Semantic Segmentation 문제에서 높은 성능을 보여주었음.
