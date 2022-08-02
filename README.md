@@ -4,6 +4,7 @@ paper reading, survey, seminar beyond multi-account dimension.
 ## Index
 ###### 1. [Segmentation](#1.-segmentation)
 ###### 2. [OCR, STR](#2.-ocr,-str)
+###### 3. [CNN](#3. -cnn)
 
 ***
 
@@ -28,3 +29,10 @@ Optical Character Recognition / Scene Text Recognition Paper
 |   21.12.xx  |      |                                                                         |         |       |        | |
 
 ***
+
+#### 3. CNN
+Convolutional Neural Networks
+
+| Review Date | Year |                                  Title                                  |   S/P   | Paper | Review | Discussion |
+|:-----------:|------|:-----------------------------------------------------------------------:|:-------:|:-----:|--------|------------|
+|   22.08.02  | 2022 | A ConvNet for the 20202s | CVPR2022 | [Link](https://arxiv.org/abs/2201.03545) | [no update](OCR-STR/EAST/review-EAST.md) | [Link](?) 
